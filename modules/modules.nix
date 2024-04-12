@@ -136,6 +136,7 @@ let
     ./programs/kodi.nix
     ./programs/lazygit.nix
     ./programs/ledger.nix
+    ./programs/lapce.nix
     ./programs/less.nix
     ./programs/lesspipe.nix
     ./programs/lf.nix
