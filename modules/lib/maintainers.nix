@@ -137,6 +137,12 @@
     github = "iosmanthus";
     githubId = 16307070;
   };
+  KaiserCalm = {
+    name = "Deividas Paukštė";
+    email = "deiv.paukst@proton.me";
+    github = "KaiserCalm";
+    githubId = 81613945;
+  };
   kalhauge = {
     name = "Christian Gram Kalhauge";
     email = "kalhauge@users.noreply.github.com";
