@@ -1476,6 +1476,13 @@ in {
           A new module is available: 'programs.bun'.
         '';
       }
+
+      {
+        time = "2024-04-12T15:47:15+00:00";
+        message = ''
+          A new module is available: 'programs.lapce'.
+        '';
+      }
     ];
   };
 }
